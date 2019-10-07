@@ -15,6 +15,7 @@ int main(void){
     return 0;
 }
 
+
 void cocktailSort(int unsorted[], int length){
     bool swapped = true;
     int start = 0;
